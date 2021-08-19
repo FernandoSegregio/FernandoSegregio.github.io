@@ -131,7 +131,7 @@ div.appendChild(input);
 
 const button = document.createElement('button');
 button.id = 'generate-board';
-button.innerText = 'VQV';
+button.innerText = 'Gerar Novo Quadro';
 div.appendChild(button);
 
 function setInput() {

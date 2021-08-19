@@ -1,4 +1,5 @@
-@import url('https://fonts.googleapis.com/css2?family=Faustina:ital,wght@0,400;0,500;0,600;0,700;1,400;1,500;1,600;1,700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=VT323&display=swap');
+
 
 @font-face {
   font-family: 'pixel';
@@ -13,7 +14,7 @@
 html {
   background: url('https://images4.alphacoders.com/966/thumb-1920-966314.jpg')no-repeat center center fixed;
   background-size: cover;
-  font-family: 'pixel';
+  font-family: 'VT323';
   color: rgb(43, 39, 39);
 }
 
@@ -23,12 +24,12 @@ body {
 }
 
 #nameProjet {
-  font-size: 35px;
+  font-size: 55px;
   margin-bottom: 2px;
 }
 
 #title {
-  font-size: 20px;
+  font-size: 35px;
   margin-bottom: 5px;
 }
 
@@ -59,10 +60,26 @@ body {
 }
 
 #clear-board {
+  size: 30px;
   margin-bottom: 10px;
   margin-top: 10px;
+  font-family: 'VT323';
+  font-size: 16px;
+  display : inline-block;
+  width: 80px;
+  height:23px;
 }
 
 #board-size {
   margin-right: 5px;
+  display: inline-block;
+  height: 18px;
+}
+
+#generate-board {
+  font-family: 'VT323';
+  font-size: 16px;
+  display: inline-block;
+  width: 130px;
+  height: 23px;
 }
