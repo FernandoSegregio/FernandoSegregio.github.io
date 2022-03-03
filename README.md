@@ -1,4 +1,4 @@
-Sejam Bem Vindos ao Pixel Art App!
+Sejam Bem Vindos ao Super Pixel Art World App!
 
 Projeto Realizado na Trybe, no módulo de fundamentos.
 
@@ -15,4 +15,4 @@ Tecnologias utilziadas:
 * CSS
 * Logíca de Programação
 
-Link do app: 
+Link da aplicaçao: https://pixel-art-gamma.vercel.app
